@@ -1,0 +1,81 @@
+# ninja log v6
+90	462	7885891053551837	CalculatorApp_autogen/timestamp	c981c2850c28f79
+90	462	7885891053551837	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+90	462	7885891053551837	CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+90	462	7885891053551837	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/timestamp	c981c2850c28f79
+1271	6548	7885889798465351	CMakeFiles/CalculatorApp.dir/main.cpp.obj	44137c591166361b
+464	5413	7885891057303527	CMakeFiles/CalculatorApp.dir/mainwindow.cpp.obj	281ce7cea2cd93c8
+5413	5642	7885891106764120	CalculatorApp.exe	58711cd03ccb284b
+1266	6545	7885889798422176	CMakeFiles/CalculatorApp.dir/CalculatorApp_autogen/mocs_compilation.cpp.obj	8e43330964373bb5
+125	1645	7885891876425309	CalculatorApp_autogen/timestamp	c981c2850c28f79
+125	1645	7885891876425309	CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+125	1645	7885891876425309	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/timestamp	c981c2850c28f79
+125	1645	7885891876425309	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+1647	5852	7885891878127030	CMakeFiles/CalculatorApp.dir/CalculatorApp_autogen/mocs_compilation.cpp.obj	8e43330964373bb5
+1660	5870	7885891878235162	CMakeFiles/CalculatorApp.dir/main.cpp.obj	44137c591166361b
+1670	6295	7885891878345820	CMakeFiles/CalculatorApp.dir/mainwindow.cpp.obj	281ce7cea2cd93c8
+6295	6621	7885891924576837	CalculatorApp.exe	58711cd03ccb284b
+134	375	7885892146091621	CalculatorApp_autogen/timestamp	c981c2850c28f79
+134	375	7885892146091621	CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+134	375	7885892146091621	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/timestamp	c981c2850c28f79
+134	375	7885892146091621	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+376	4152	7885892148522114	CMakeFiles/CalculatorApp.dir/mainwindow.cpp.obj	281ce7cea2cd93c8
+4153	4519	7885892186251805	CalculatorApp.exe	58711cd03ccb284b
+59	700	7885892655556180	CalculatorApp_autogen/timestamp	c981c2850c28f79
+59	700	7885892655556180	CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+59	700	7885892655556180	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/timestamp	c981c2850c28f79
+59	700	7885892655556180	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+702	5042	7885892656700088	CMakeFiles/CalculatorApp.dir/CalculatorApp_autogen/mocs_compilation.cpp.obj	8e43330964373bb5
+707	5065	7885892656757348	CMakeFiles/CalculatorApp.dir/main.cpp.obj	44137c591166361b
+712	5826	7885892656801139	CMakeFiles/CalculatorApp.dir/mainwindow.cpp.obj	281ce7cea2cd93c8
+5826	6281	7885892707950439	CalculatorApp.exe	58711cd03ccb284b
+208	843	7885894551776107	CalculatorApp_autogen/timestamp	c981c2850c28f79
+208	843	7885894551776107	CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+208	843	7885894551776107	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/timestamp	c981c2850c28f79
+208	843	7885894551776107	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+845	5398	7885894552773898	CMakeFiles/CalculatorApp.dir/CalculatorApp_autogen/mocs_compilation.cpp.obj	8e43330964373bb5
+850	5474	7885894552814127	CMakeFiles/CalculatorApp.dir/main.cpp.obj	44137c591166361b
+127	526	7885894665117712	CalculatorApp_autogen/timestamp	c981c2850c28f79
+127	526	7885894665117712	CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+127	526	7885894665117712	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/timestamp	c981c2850c28f79
+127	526	7885894665117712	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+529	4984	7885894669138988	CMakeFiles/CalculatorApp.dir/mainwindow.cpp.obj	281ce7cea2cd93c8
+4984	5275	7885894713696332	CalculatorApp.exe	58711cd03ccb284b
+88	715	7885895482822243	CalculatorApp_autogen/timestamp	c981c2850c28f79
+88	715	7885895482822243	CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+88	715	7885895482822243	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/timestamp	c981c2850c28f79
+88	715	7885895482822243	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+720	5109	7885895483839767	CMakeFiles/CalculatorApp.dir/main.cpp.obj	44137c591166361b
+715	5117	7885895483758787	CMakeFiles/CalculatorApp.dir/CalculatorApp_autogen/mocs_compilation.cpp.obj	8e43330964373bb5
+725	5529	7885895483877295	CMakeFiles/CalculatorApp.dir/mainwindow.cpp.obj	281ce7cea2cd93c8
+5530	5815	7885895531885180	CalculatorApp.exe	58711cd03ccb284b
+170	451	7885896601548898	CalculatorApp_autogen/timestamp	c981c2850c28f79
+170	451	7885896601548898	CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+170	451	7885896601548898	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/timestamp	c981c2850c28f79
+170	451	7885896601548898	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+453	3762	7885896604371244	CMakeFiles/CalculatorApp.dir/mainwindow.cpp.obj	281ce7cea2cd93c8
+3762	4008	7885896637451683	CalculatorApp.exe	58711cd03ccb284b
+83	280	7885897372307025	CalculatorApp_autogen/timestamp	c981c2850c28f79
+83	280	7885897372307025	CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+83	280	7885897372307025	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/timestamp	c981c2850c28f79
+83	280	7885897372307025	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+281	2482	7885897374292325	CMakeFiles/CalculatorApp.dir/mainwindow.cpp.obj	281ce7cea2cd93c8
+2482	2669	7885897396300358	CalculatorApp.exe	58711cd03ccb284b
+200	414	7885898171715030	CalculatorApp_autogen/timestamp	c981c2850c28f79
+200	414	7885898171715030	CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+200	414	7885898171715030	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/timestamp	c981c2850c28f79
+200	414	7885898171715030	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+415	3025	7885898173869314	CMakeFiles/CalculatorApp.dir/mainwindow.cpp.obj	281ce7cea2cd93c8
+3025	3298	7885898199935159	CalculatorApp.exe	58711cd03ccb284b
+278	648	7885899075257432	CalculatorApp_autogen/timestamp	c981c2850c28f79
+278	648	7885899075257432	CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+278	648	7885899075257432	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/timestamp	c981c2850c28f79
+278	648	7885899075257432	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+650	3669	7885899078989972	CMakeFiles/CalculatorApp.dir/mainwindow.cpp.obj	281ce7cea2cd93c8
+3669	3923	7885899109139285	CalculatorApp.exe	58711cd03ccb284b
+295	667	7885901382838008	CalculatorApp_autogen/timestamp	c981c2850c28f79
+295	667	7885901382838008	CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+295	667	7885901382838008	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/timestamp	c981c2850c28f79
+295	667	7885901382838008	C:/Users/ASUS/Desktop/QT probably/CalculatorApp/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CalculatorApp_autogen/mocs_compilation.cpp	c981c2850c28f79
+671	4769	7885901386611119	CMakeFiles/CalculatorApp.dir/mainwindow.cpp.obj	281ce7cea2cd93c8
+4769	5066	7885901427605889	CalculatorApp.exe	58711cd03ccb284b
