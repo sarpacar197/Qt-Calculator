@@ -32,12 +32,11 @@ void MainWindow::on_But0_clicked()
 {
     QString current = ui->ResultField->text();
 
-    // EĞER ekranda sadece bir işlem işareti varsa, onu sil ve rakamı yaz
     if(current == "+" || current == "-" || current == "x" || current == "/") {
         ui->ResultField->setText("0");
     }
     else {
-        // Normal yazma mantığı
+        
         if(current == "0") ui->ResultField->setText("0");
         else ui->ResultField->setText(current + "0");
     }
@@ -49,12 +48,10 @@ void MainWindow::on_But2_clicked()
 {
     QString current = ui->ResultField->text();
 
-    // EĞER ekranda sadece bir işlem işareti varsa, onu sil ve rakamı yaz
     if(current == "+" || current == "-" || current == "x" || current == "/") {
         ui->ResultField->setText("2");
     }
     else {
-        // Normal yazma mantığı
         if(current == "0") ui->ResultField->setText("2");
         else ui->ResultField->setText(current + "2");
     }
@@ -65,12 +62,10 @@ void MainWindow::on_But3_clicked()
 {
     QString current = ui->ResultField->text();
 
-    // EĞER ekranda sadece bir işlem işareti varsa, onu sil ve rakamı yaz
     if(current == "+" || current == "-" || current == "x" || current == "/") {
         ui->ResultField->setText("3");
     }
     else {
-        // Normal yazma mantığı
         if(current == "0") ui->ResultField->setText("3");
         else ui->ResultField->setText(current + "3");
     }
@@ -81,12 +76,10 @@ void MainWindow::on_But4_clicked()
 {
     QString current = ui->ResultField->text();
 
-    // EĞER ekranda sadece bir işlem işareti varsa, onu sil ve rakamı yaz
     if(current == "+" || current == "-" || current == "x" || current == "/") {
         ui->ResultField->setText("4");
     }
     else {
-        // Normal yazma mantığı
         if(current == "0") ui->ResultField->setText("4");
         else ui->ResultField->setText(current + "4");
     }
@@ -97,12 +90,10 @@ void MainWindow::on_But5_clicked()
 {
     QString current = ui->ResultField->text();
 
-    // EĞER ekranda sadece bir işlem işareti varsa, onu sil ve rakamı yaz
     if(current == "+" || current == "-" || current == "x" || current == "/") {
         ui->ResultField->setText("5");
     }
     else {
-        // Normal yazma mantığı
         if(current == "0") ui->ResultField->setText("5");
         else ui->ResultField->setText(current + "5");
     }
@@ -113,12 +104,10 @@ void MainWindow::on_But6_clicked()
 {
     QString current = ui->ResultField->text();
 
-    // EĞER ekranda sadece bir işlem işareti varsa, onu sil ve rakamı yaz
     if(current == "+" || current == "-" || current == "x" || current == "/") {
         ui->ResultField->setText("6");
     }
     else {
-        // Normal yazma mantığı
         if(current == "0") ui->ResultField->setText("6");
         else ui->ResultField->setText(current + "6");
     }
@@ -129,12 +118,10 @@ void MainWindow::on_But7_clicked()
 {
     QString current = ui->ResultField->text();
 
-    // EĞER ekranda sadece bir işlem işareti varsa, onu sil ve rakamı yaz
     if(current == "+" || current == "-" || current == "x" || current == "/") {
         ui->ResultField->setText("7");
     }
     else {
-        // Normal yazma mantığı
         if(current == "0") ui->ResultField->setText("7");
         else ui->ResultField->setText(current + "7");
     }
@@ -145,12 +132,10 @@ void MainWindow::on_But8_clicked()
 {
     QString current = ui->ResultField->text();
 
-    // EĞER ekranda sadece bir işlem işareti varsa, onu sil ve rakamı yaz
     if(current == "+" || current == "-" || current == "x" || current == "/") {
         ui->ResultField->setText("8");
     }
     else {
-        // Normal yazma mantığı
         if(current == "0") ui->ResultField->setText("8");
         else ui->ResultField->setText(current + "8");
     }
@@ -161,12 +146,10 @@ void MainWindow::on_But9_clicked()
 {
     QString current = ui->ResultField->text();
 
-    // EĞER ekranda sadece bir işlem işareti varsa, onu sil ve rakamı yaz
     if(current == "+" || current == "-" || current == "x" || current == "/") {
         ui->ResultField->setText("9");
     }
     else {
-        // Normal yazma mantığı
         if(current == "0") ui->ResultField->setText("9");
         else ui->ResultField->setText(current + "9");
     }
@@ -256,17 +239,16 @@ void MainWindow::on_ButDiv_clicked()
 
 void MainWindow::on_ButEquals_clicked()
 {
-    double second_num, result = 0; // result'a 0 başlangıç değeri verelim
+    double second_num, result = 0; 
     second_num = ui->ResultField->text().toDouble();
 
-    // ÖNEMLİ: pendingOperation içeriğinin tam eşleştiğinden emin ol
     if (pendingOperation == "+") {
         result = first_num + second_num;
     }
     else if (pendingOperation == "-") {
         result = first_num - second_num;
     }
-    else if (pendingOperation == "x") { // Çarpma butonunda "x" demiştin, burada da "x" olmalı
+    else if (pendingOperation == "x") { 
         result = first_num * second_num;
     }
     else if (pendingOperation == "/") {
@@ -279,6 +261,6 @@ void MainWindow::on_ButEquals_clicked()
     }
 
     ui->ResultField->setText(QString::number(result, 'g', 15));
-    pendingOperation = ""; // İşlemi sıfırla
+    pendingOperation = ""; 
 }
 
