@@ -1,10 +1,10 @@
-# 🧮 Calculator Infrastructure and UI with Qt
+# 🧮 Calculator Infrastructure and UI with Qt 
 
 A robust and modern desktop calculator application built using **C++** and the **Qt Framework**. This project focuses on a clean user interface and a reliable mathematical processing engine.
 
 ## 🚀 Key Features
 
-- **Robust Calculation Engine:** Supports basic arithmetic operations (+, -, *, /) with precision handling.
+- **Robust Calculation Engine:** Supports basic arithmetic operations (+, -, *, /) with precision.
 - **Dynamic UI/UX:** Designed using Qt Designer with a focus on usability and responsiveness.
 - **Visual Feedback:** Displays current operators on the screen and clears them automatically when a new number is entered, providing a seamless user experience.
 - **Error Handling:** Built-in detection for operations like division by zero, preventing application crashes.
